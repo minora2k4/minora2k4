@@ -25,15 +25,16 @@ I enjoy turning raw data into meaningful insights and deployable solutions, from
 **Tools & Technologies:**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="40"/>
-  <span style="font-size:20px; margin-left:10px;">MinIO · HDFS</span>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/MinIO_logo.svg" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" height="40"/>
 </p>
+
 
 ---
 
