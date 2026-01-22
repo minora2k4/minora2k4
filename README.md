@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280"/>
+</p>
+
 ## Hi there, I'm Nguyen Van Khai 👋
 
 ## 🚀 About Me
@@ -5,7 +9,7 @@ I'm a **Data Science & Artificial Intelligence student**, with a strong interest
 
 - **Data Engineer**
 - **Data Scientist**
-- **AI / Machine Learning Engineer**
+- **AI Engineer**
 
 I enjoy turning raw data into meaningful insights and deployable solutions, from data ingestion to analytics and machine learning models.
 
@@ -19,13 +23,17 @@ I enjoy turning raw data into meaningful insights and deployable solutions, from
 - Data modeling 
 
 **Tools & Technologies:**
-- Python, SQL
-- Apache Airflow
-- Apache Kafka
-- Apache Spark
-- Docker, Kubernetes
-- MinIO, HDFS
-- Elasticsearch
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="40"/>
+  <span style="font-size:20px; margin-left:10px;">MinIO · HDFS</span>
+</p>
 
 ---
 
