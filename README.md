@@ -31,7 +31,6 @@ I enjoy turning raw data into meaningful insights and deployable solutions, from
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/MinIO_logo.svg" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" height="40"/>
 </p>
 
