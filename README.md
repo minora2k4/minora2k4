@@ -29,7 +29,6 @@ I enjoy turning raw data into meaningful insights and deployable solutions, from
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" height="40"/>
 </p>
@@ -37,36 +36,17 @@ I enjoy turning raw data into meaningful insights and deployable solutions, from
 
 ---
 
-### 🔹 Data Science & Machine Learning
+### 🔹 Data Science & AI Engineer
 - Data analysis & feature engineering
-- Supervised learning
-- Model evaluation and validation
+- ML Pipeline
+- RAG Pipeline
+- LLM Application
 - Basic MLOps concepts
 
 **Libraries & Frameworks:**
 - NumPy, Pandas
 - Scikit-learn
-- TensorFlow / PyTorch (basic)
-
----
-
-## 📊 Selected Projects
-
-### 🔸 Data Platform / Data Pipeline (PoC)
-- Built an **end-to-end data pipeline** simulating real-world data platforms
-- Implemented **streaming ingestion with Kafka**
-- Processed data using **Apache Spark**
-- Orchestrated workflows with **Apache Airflow**
-- Stored data for analytics and downstream use
-
-> Goal: gain hands-on experience with production-like data architectures
-
----
-
-### 🔸 Machine Learning / Data Science Projects
-- Solved **classification problems** using spectral data
-- Applied classical machine learning models
-- Evaluated models using standard performance metrics
+- TensorFlow / PyTorch
 
 ---
 
@@ -86,5 +66,4 @@ I enjoy turning raw data into meaningful insights and deployable solutions, from
 
 ---
 
-⭐ If you find my repositories useful, feel free to give them a **star**!
 
